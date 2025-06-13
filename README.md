@@ -28,4 +28,4 @@ It allows users to create, manage, and delete daily tasks with real-time updates
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone [https://github.com/your-username/todo-list-app.git](https://github.com/Vishwa659/MyTasks.git)
