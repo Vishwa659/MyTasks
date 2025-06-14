@@ -24,8 +24,3 @@ It allows users to create, manage, and delete daily tasks with real-time updates
 ![image](https://github.com/user-attachments/assets/105acc14-d4be-48a4-9c81-9f4a40ec9d36)
 
 
-## 💡 How to Use
-
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/Vishwa659/MyTasks.git]
